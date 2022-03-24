@@ -3,6 +3,8 @@ This Repo holds my work in investigating and learning about various data structu
 
 I leaned on "Data Structures & Algorithms in Python" by Micheal T Goodrich along with various resources online. 
 
+In each of the listed projects I included an indepth explanation of how performance is impacted by the Data Structures utilized. I also include explanations of the test cases I wrote.
+
 ## Balanced Binary Search Tree
 Created a new balanced BST class to demonstrate and learn the benefits of Binary Search Trees 
 
